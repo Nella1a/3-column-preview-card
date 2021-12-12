@@ -64,6 +64,7 @@ img {
 }
 
 
+h1, 
 h2 {
   color: var(--lightGrey);
   text-transform: uppercase;
